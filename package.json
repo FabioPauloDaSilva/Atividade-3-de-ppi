@@ -1,0 +1,25 @@
+{
+  "name": "atividade-3-de-ppi",
+  "version": "1.0.0",
+  "description": "Atividade 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "type": "module"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabioPauloDaSilva/Atividade-3-de-ppi.git"
+  },
+  "author": "Fabin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabioPauloDaSilva/Atividade-3-de-ppi/issues"
+  },
+  "homepage": "https://github.com/FabioPauloDaSilva/Atividade-3-de-ppi#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
